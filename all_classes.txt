@@ -1,0 +1,73 @@
+========================================================
+ALL TRAINED MODELS - CLASSES REFERENCE
+========================================================
+Total categories (models): 7
+Total classes across all models: 38
+
+--------------------------------------------------------
+Weapons  (5 classes)
+--------------------------------------------------------
+0 Bat
+1 Baton
+2 Bullet
+3 Gun
+4 HandCuffs
+
+--------------------------------------------------------
+Tools  (4 classes)
+--------------------------------------------------------
+0 Hammer
+1 Plier
+2 Screwdriver
+3 Wrench
+
+--------------------------------------------------------
+Liquids_and_Cans  (7 classes)
+--------------------------------------------------------
+0 Cans
+1 CartonDrinks
+2 GlassBottle
+3 PlasticBottle
+4 Tin
+5 VacuumCup
+6 Water
+
+--------------------------------------------------------
+Sharp_Objects  (12 classes)
+--------------------------------------------------------
+0 Blade
+1 Dagger
+2 Dart
+3 Folding_Knife
+4 Knife
+5 Multi-tool_Knife
+6 Razor_Blade
+7 Saw_Blade
+8 Scissors
+9 Straight_Knife
+10 SwissArmyKnife
+11 Utility_Knife
+
+--------------------------------------------------------
+Explosives_and_Flammable  (7 classes)
+--------------------------------------------------------
+0 Battery
+1 Fireworks
+2 Lighter
+3 Nonmetallic_Lighter
+4 Pressure_Vessel
+5 SprayCans
+6 Sprayer
+
+--------------------------------------------------------
+Cosmetic  (1 class)
+--------------------------------------------------------
+0 Cosmetic
+
+--------------------------------------------------------
+Electronics  (4 classes)
+--------------------------------------------------------
+0 Laptops
+1 Mobile_phones
+2 PowerBank
+3 Tablet
