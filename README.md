@@ -83,7 +83,7 @@ A single X-ray scan can contain items from several categories at once (e.g. a we
 1. All 7 `.pt` model files are loaded once at startup (not per-request) for fast inference.
 2. Every detection's box is compared against every other using **IoU (Intersection over Union)**.
 3. Detections are sorted by confidence; any box that overlaps an already-accepted higher-confidence box beyond the IoU threshold is discarded — keeping only the best detection per real-world object.
-4. Results are rendered on a **Gradio web interface** with adjustable confidence and IoU-merge sliders, running locally at `http://127.0.0.1:7860`.
+4. Results are rendered on a **Gradio web interface** with adjustable confidence and IoU-merge sliders for interactive control.
 
 <p align="center">
   <img src="assets/ensemble_ui_screenshot.png" alt="Multi-model ensemble detection interface" width="800">
